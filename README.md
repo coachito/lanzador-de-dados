@@ -60,10 +60,6 @@ El resultado final es de 22
 
 Tu personaje recibe un buff: Fuerza aumentada
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## Contribuciones
