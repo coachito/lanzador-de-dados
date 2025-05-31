@@ -68,12 +68,6 @@ Si deseas contribuir a este proyecto, por favor abre un issue o realiza un pull 
 
 ---
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
-
----
-
 ## Contacto
 
 Camilo Ortegon - camilo.ortegonc@outlook.com  
